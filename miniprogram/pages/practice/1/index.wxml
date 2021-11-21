@@ -38,6 +38,8 @@
 
 <view class="gap"></view>
 <view class="gap"></view>
+
+<view hover-class="red">123</view>
 </view>
 
 </view>
